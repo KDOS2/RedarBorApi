@@ -1,0 +1,14 @@
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\bin\Debug\net6.0\RearborDataBase.deps.json
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\bin\Debug\net6.0\RearborDataBase.runtimeconfig.json
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\bin\Debug\net6.0\RearborDataBase.dll
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\bin\Debug\net6.0\RearborDataBase.pdb
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.csproj.AssemblyReference.cache
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.AssemblyInfoInputs.cache
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.AssemblyInfo.cs
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.csproj.CoreCompileInputs.cache
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.dll
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\refint\RearborDataBase.dll
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.pdb
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\RearborDataBase.genruntimeconfig.cache
+D:\Archivos\Pruebas\Redarbor\App\WebApiRedarbor\RearborDataBase\obj\Debug\net6.0\ref\RearborDataBase.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "RYsUwZZ8GhCDt7SdF6WOKo6go2hXHHDjP2SjYM3XPz3IysP6nKqikbDuHtVlKTew2gaJmSjtzLHCz6B4Z0RKJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cero8\\OneDrive\\Escritorio\\WebApiRedarbor\\RedarBorModels\\RedarBorModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cero8\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\cero8\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\cero8\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\cero8\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\cero8\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
